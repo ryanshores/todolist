@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanshores/todolist.git"
+  },
+  "author": "Ryan Shores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanshores/todolist/issues"
+  },
+  "homepage": "https://github.com/ryanshores/todolist#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "morgan": "^1.9.0"
+  }
+}
