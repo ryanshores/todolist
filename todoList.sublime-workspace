@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"todoToRemove"
+			],
+			[
+				"re",
+				"removeTodo"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"grid-template-s",
+				"grid-template-areas"
+			],
+			[
+				"gri",
+				"grid-template-columns"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"grid-",
+				"grid-area"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"base",
+				"alignment-baseline"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"grid-te",
+				"grid-template-areas"
+			],
+			[
+				"grid-t",
+				"grid-template-rows"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"grid",
+				"grid-area"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"mes",
+				"messageDisplay"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"colo",
+				"colorDisplay"
+			],
+			[
+				"pic",
+				"pickColor"
+			],
+			[
+				"gener",
+				"generateRandomColors"
+			],
+			[
+				"hard",
+				"hardBtn"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"gen",
+				"generateRandomColors"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"rese",
+				"resetBtn"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"rand",
+				"randomColor"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pla",
+				"playerTwoSpan"
+			],
+			[
+				"play",
+				"playerOneSpan"
+			],
+			[
+				"pl",
+				"playerOneSpan"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"se",
+				"secretNumber"
+			],
+			[
+				"age",
+				"ageDays"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"pr",
+				"promt"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"f",
+				"firstName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryanshores/Dropbox/Developer/todolist"
+	],
+	"file_history":
+	[
+		"/Users/ryanshores/Dropbox/Developer/todolist/app.js",
+		"/Users/ryanshores/Dropbox/Developer/todolist/public/app.js",
+		"/Users/ryanshores/Dropbox/Developer/express/app.js",
+		"/Users/ryanshores/.hyper.js",
+		"/Users/ryanshores/.zshrc",
+		"/Users/ryanshores/Developer/hello_world/app.js",
+		"/Users/ryanshores/stormtracker/readme.md",
+		"/Users/ryanshores/Downloads/fetch.cgi",
+		"/Users/ryanshores/Downloads/header.php",
+		"/Users/ryanshores/Downloads/index (1).php",
+		"/Users/ryanshores/Downloads/al112017_020adv_CONE.kml",
+		"/Users/ryanshores/Downloads/index.php",
+		"/Users/ryanshores/Downloads/noun_120101_cc.svg",
+		"/Users/ryanshores/Dropbox/webDev/Footer Experiment/index.html",
+		"/Users/ryanshores/Dropbox/webDev/Footer Experiment/style.css",
+		"/Users/ryanshores/Downloads/home-page/index.html",
+		"/Users/ryanshores/Downloads/home-page/css/style.css",
+		"/Users/ryanshores/Dropbox/python_work/hello_world.py",
+		"/Users/ryanshores/Dropbox/webDev/CSS Grid/index.html",
+		"/Users/ryanshores/Desktop/test.js",
+		"/Users/ryanshores/Desktop/Routing.html",
+		"/Users/ryanshores/Desktop/untitled.html",
+		"/Users/ryanshores/Dropbox/webDev/CSS Grid/css/grid.css",
+		"/Users/ryanshores/Dropbox/Portfolio/myPortfolio/rshores/index.html",
+		"/Users/ryanshores/Dropbox/Programing/ColtSteele/frontEnd/Section 15/Color Game/colorGame.js",
+		"/Users/ryanshores/Dropbox/Programing/ColtSteele/frontEnd/Section 18/toDoListProject/assets/css/circles.html",
+		"/Users/ryanshores/Dropbox/Programing/ColtSteele/frontEnd/Section 18/toDoListProject/index.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 18/toDoList/toDoList.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 18/toDoList/toDoList.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 16/jQuery Exercise/toDoList.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 16/jQuery Exercise/toDoList.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 16/jQuery Exercise/exe.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 15/Color Game/colorGame.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 15/Color Game/colorGame.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 15/Color Game/colorGame.js",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 14/scoreKeeping/scoreKeeping.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 14/scoreKeeping/scoreKeeper.js",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/siteTemplate/stalker.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/ageExersize/style.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/ageExersize/script.js",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/ageExersize/ageCalculator.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/stalkerExercise/style.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/stalkerExercise/script.js",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/Section 8/stalkerExercise/stalker.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/index.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/basics.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/blogexercise.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/catapp.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/gallary.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/navbars.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/gallary.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/blog.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/photos.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/photoGrid.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/table.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/tictaktoe.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/styles.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/fonts.html",
+		"/Users/ryanshores/Downloads/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/ryanshores/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/todos.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/todoList.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/app.css",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/aboutMe.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/form.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/inputs.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/quiz3.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/PokemonTable.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/HTMLTables.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/quiz2.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/quiz1.html",
+		"/Users/ryanshores/Dropbox/ColtSteele/frontEnd/firstPage.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 370.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todoList.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
